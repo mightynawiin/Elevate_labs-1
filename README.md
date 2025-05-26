@@ -37,11 +37,11 @@ Install the following Python library:
 
 # 🖼️ Code Snapshot
 
-![Code Screenshot]("C:\Users\rajas\OneDrive\Pictures\Screenshots\Screenshot 2025-05-26 133518.png")
+![Code Screenshot](images/code_snap%20(1).png)
 
 # 📤 Output Preview
 
-![Output Screenshot]("C:\Users\rajas\OneDrive\Pictures\Screenshots\Screenshot 2025-05-26 133712.png")
+![Output Screenshot](images/code_snap%20(2).png)
 
 # 📌 Notes
 
