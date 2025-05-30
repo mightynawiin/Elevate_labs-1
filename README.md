@@ -5,6 +5,9 @@ This repository contains a Python script to clean and preprocess a marketing cam
 # 📂 Dataset
 
 The original dataset should be in **CSV format** with **tab-separated (`\t`) values**.
+# 🖼️ Code Snapshot
+
+![Code Screenshot](images/code_snap%20(1).png)
 
 **File:**  
 `marketing_campaign.csv`
@@ -35,9 +38,7 @@ Install the following Python library:
 **Output:**  
 `cleaned_dataset.csv`
 
-# 🖼️ Code Snapshot
 
-![Code Screenshot](images/code_snap%20(1).png)
 
 # 📤 Output Preview
 
